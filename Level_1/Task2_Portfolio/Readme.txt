@@ -1,0 +1,1 @@
+Open this folder with vs code. Then run the index.html file with live server to see the styled website. Otherwise, the styles may not be shown.
